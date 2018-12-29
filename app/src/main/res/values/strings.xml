@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="from">Boarding Point</string>
+    <string name="to">Drop Off Point</string>
+    <string name="date">Date</string>
+    <string name="pay_button">Pay</string>
+</resources>
